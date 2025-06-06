@@ -40,7 +40,7 @@ I'm a *Full-Stack Developer* studying at *Adventist University of Central Africa
 #### 2. *My portfolio*
 - *Description*: A full protfolio website shows my educational background and expliences .
 - *Tech Stack*: html, css, js, bootstrap
-- *Deployment*: [My portfolio](https://ByiringiroUrban.github.io/myPortflio/)
+- *Deployment*: [My portfolio](https://bobola.vercel.app)
 
 #### 3. **Expense Tracker
 - *Description*: A full system expense track web app .
