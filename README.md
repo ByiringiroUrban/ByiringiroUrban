@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Byiringiro Urban Bobola  
+### Hi there I'm Byiringiro Urban Bobola  
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/ByiringiroUrban/ByiringiroUrban/main/banners.gif" alt="Animated Banner" width="100%" style="border-radius: 10px;">
@@ -13,7 +13,7 @@ I contribute to multiple companies as a developer:
 
 ---
 
-### 🚀 Projects
+### Projects
 
 #### 1. **Simple Authentication System**
 - **Description:** A full-stack authentication system including **user registration, login/logout, password hashing, session management with JWT tokens**, and password reset functionality.  
@@ -32,7 +32,7 @@ I contribute to multiple companies as a developer:
 
 ---
 
-### 📊 GitHub Stats  
+###  GitHub Stats  
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ByiringiroUrban&show_icons=true&theme=dark" width="48%" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
@@ -41,14 +41,14 @@ I contribute to multiple companies as a developer:
 
 ---
 
-### 💡 About Me
-- 🌱 Continuously learning **modern web technologies, AI, and software engineering best practices**  
-- 👨‍💻 Focused on **building scalable and user-friendly applications**  
-- 🤝 Open to collaborations, mentorship, and new challenges  
+###  About Me
+-  Continuously learning **modern web technologies, AI, and software engineering best practices**  
+-  Focused on **building scalable and user-friendly applications**  
+-  Open to collaborations, mentorship, and new challenges  
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 <div align="center">
   <a href="https://linkedin.com/in/byiringiro-urban" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:byiringirourban@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
