@@ -1,40 +1,58 @@
-### Hi there 👋 I'm Byiringiro Urban Bobola 
+### Hi there 👋 I'm Byiringiro Urban Bobola  
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/ByiringiroUrban/ByiringiroUrban/main/banners.gif" alt="Animated Banner" width="100%" style="border-radius: 10px;">
 </div>
 
-I'm a *Full-Stack Developer* studying at *Adventist University of Central Africa (AUCA).* Passionate about coding, problem-solving, and building efficient applications.  
+I'm a **Full-Stack Developer** and software engineer, currently studying at **Adventist University of Central Africa (AUCA)**. I have a strong passion for **building efficient applications, solving problems, and creating innovative digital solutions**.  
+
+I contribute to multiple companies as a developer:  
+- **Land O'clock**  
+- **IRU BUSINESS GROUP**  
+- **Getway Connection LTD**  
 
 ---
 
-### 🚀 *Projects*
+### 🚀 Projects
 
-#### 1. *Simple Authentication System*
-- *Description*: A full-stack authentication system that includes user registration, login/logout functionality, password hashing, session management with JWT tokens, and a password reset feature.
-- *Tech Stack*: Node.js, EJS, CSS, PostgreSQL, JWT Tokens
-- *Deployment*: [Simple Authentication System](https://simpleuserauthenticationsystem.onrender.com/)
+#### 1. **Simple Authentication System**
+- **Description:** A full-stack authentication system including **user registration, login/logout, password hashing, session management with JWT tokens**, and password reset functionality.  
+- **Tech Stack:** Node.js, EJS, CSS, PostgreSQL, JWT  
+- **Deployment:** [Simple Authentication System](https://simpleuserauthenticationsystem.onrender.com/)
 
-#### 2. *My portfolio*
-- *Description*: A full protfolio website shows my educational background and expliences .
-- *Tech Stack*: html, css, js, bootstrap
-- *Deployment*: [My portfolio](https://bobola.vercel.app)
+#### 2. **My Portfolio**
+- **Description:** A professional portfolio website showcasing my **educational background, skills, and projects**.  
+- **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
+- **Deployment:** [My Portfolio](https://bobola.vercel.app)
 
-#### 3. **Expense Tracker
-- *Description*: A full system expense track web app .
-- *Tech Stack*: reactjs, tailwind, Typescript
-- *Deployment*: https://expense-trackerwebapps.vercel.app/
+#### 3. **Expense Tracker**
+- **Description:** A **web-based system for tracking expenses**, helping users manage personal finances effectively.  
+- **Tech Stack:** React.js, Tailwind CSS, TypeScript  
+- **Deployment:** [Expense Tracker](https://expense-trackerwebapps.vercel.app/)
 
 ---
-
-
 
 ### 📊 GitHub Stats  
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ByiringiroUrban&show_icons=true&theme=dark" width="48%" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByiringiroUrban&layout=compact&theme=dark" width="48%" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+    <img src="https://github-readme-stats.vercel.app/api?username=ByiringiroUrban&show_icons=true&theme=dark" width="48%" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByiringiroUrban&layout=compact&theme=dark" width="48%" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
-💬 Feel free to reach out! I'm always open to collaborations, discussions, and new opportunities. 🚀
+### 💡 About Me
+- 🌱 Continuously learning **modern web technologies, AI, and software engineering best practices**  
+- 👨‍💻 Focused on **building scalable and user-friendly applications**  
+- 🤝 Open to collaborations, mentorship, and new challenges  
+
+---
+
+### 📫 Connect with Me
+<div align="center">
+  <a href="https://linkedin.com/in/byiringiro-urban" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:byiringirourban@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</div>
+
+✨ “Building innovative solutions that empower people and transform education.”  
