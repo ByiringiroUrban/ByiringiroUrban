@@ -11,26 +11,6 @@ I contribute to multiple companies as a developer:
 - **IRU BUSINESS GROUP**  
 - **Getway Connection LTD**  
 
----
-
-### Projects
-
-#### 1. **Simple Authentication System**
-- **Description:** A full-stack authentication system including **user registration, login/logout, password hashing, session management with JWT tokens**, and password reset functionality.  
-- **Tech Stack:** Node.js, EJS, CSS, PostgreSQL, JWT  
-- **Deployment:** [Simple Authentication System](https://simpleuserauthenticationsystem.onrender.com/)
-
-#### 2. **My Portfolio**
-- **Description:** A professional portfolio website showcasing my **educational background, skills, and projects**.  
-- **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
-- **Deployment:** [My Portfolio](https://bobola.vercel.app)
-
-#### 3. **Expense Tracker**
-- **Description:** A **web-based system for tracking expenses**, helping users manage personal finances effectively.  
-- **Tech Stack:** React.js, Tailwind CSS, TypeScript  
-- **Deployment:** [Expense Tracker](https://expense-trackerwebapps.vercel.app/)
-
----
 
 ###  GitHub Stats  
 
@@ -55,4 +35,4 @@ I contribute to multiple companies as a developer:
   <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 
-✨ “Building innovative solutions that empower people and transform education.”  
+ “Building innovative solutions that empower people and transform education.”  
