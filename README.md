@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://photos.fife.usercontent.google.com/pw/AP1GczOcsUE9zrs32RmQg4wFzY0I5wq2LE5SDmFOIYJvEZLSVIVstgReceK5=w242-h241-no?authuser=0" width="100%" />
+<!-- <img src="https://photos.fife.usercontent.google.com/pw/AP1GczOcsUE9zrs32RmQg4wFzY0I5wq2LE5SDmFOIYJvEZLSVIVstgReceK5=w242-h241-no?authuser=0" width="100%" /> -->
 
 <br/>
 
