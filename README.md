@@ -51,11 +51,11 @@
 | Project | Description |
 |---------|-------------|
 | **[IRUCare](https://irucare.com)** | Multi-industry platform for healthcare, logistics & compliance |
-| **[GeoChat](https://github.com/ByiringiroUrban/GeoChat)** | AI-powered geospatial analytics & communication |
-| **[OneHealthLine](https://github.com/ByiringiroUrban/OneHealthLine)** | Telemedicine platform for remote healthcare access |
-| **[WISE Academy](https://github.com/ByiringiroUrban/WISE-Academy)** | Full-stack e-learning system with modern UI |
-| **[Frame & Tune Studio](https://github.com/ByiringiroUrban/Frame-and-Tune-Studio)** | Multimedia service & editing platform |
-| **[UrbanBet](https://github.com/ByiringiroUrban/UrbanBet)** | Sports prediction platform with intelligent analysis |
+| **[GeoChat](https://www.geochat.ai/)** | AI-powered geospatial analytics & communication |
+| **[OneHealthLine](https://onehealthline.com)** | Telemedicine platform for remote healthcare access |
+| **[WISE Academy](https://wiseacadem.com)** | Full-stack e-learning system with modern UI |
+| **[Frame & Tune Studio](https://frameandtunestudio.com)** | Multimedia service & editing platform |
+| **[UrbanBet](https://UrbanBet.vercel.app)** | Sports prediction platform with intelligent analysis |
 
 ---
 
