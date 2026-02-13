@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+scalable+systems+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Full-Stack+%7C+Backend+%7C+ML+Engineer+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+scalable+systems;Exploring+AI+%26+Machine+Learning;Full-Stack+%7C+Backend+%7C+ML+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,18 +18,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-> Software & ML Engineer based in **Kigali, Rwanda** 🇷🇼 — studying Software Engineering at **AUCA**.
+> Software & ML Engineer based in **Kigali, Rwanda** — studying Software Engineering at **AUCA**.
 
-- 🔭 Currently working as **Backend Engineer** at **IRU Business Group**
-- 🎓 Instructor at **Land O'Clock** — teaching programming & mentoring students
-- 🌱 Passionate about **EdTech, AI solutions & scalable systems**
-- 💬 Ask me about **React, Node.js, TypeScript, Python, ML**
+- Currently working as **Backend Engineer** at **IRU Business Group**
+- Instructor at **Land O'Clock** — teaching programming & mentoring students
+- Passionate about **EdTech, AI solutions & scalable systems**
+- Ask me about **React, Node.js, TypeScript, Python, ML**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -46,20 +46,20 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
 | **[IRUCare](https://irucare.com)** | Multi-industry platform for healthcare, logistics & compliance |
-| **GeoChat** | AI-powered geospatial analytics & communication |
-| **OneHealthLine** | Telemedicine platform for remote healthcare access |
-| **WISE Academy** | Full-stack e-learning system with modern UI |
-| **Frame & Tune Studio** | Multimedia service & editing platform |
-| **UrbanBet** | Sports prediction platform with intelligent analysis |
+| **[GeoChat](https://github.com/ByiringiroUrban/GeoChat)** | AI-powered geospatial analytics & communication |
+| **[OneHealthLine](https://github.com/ByiringiroUrban/OneHealthLine)** | Telemedicine platform for remote healthcare access |
+| **[WISE Academy](https://github.com/ByiringiroUrban/WISE-Academy)** | Full-stack e-learning system with modern UI |
+| **[Frame & Tune Studio](https://github.com/ByiringiroUrban/Frame-and-Tune-Studio)** | Multimedia service & editing platform |
+| **[UrbanBet](https://github.com/ByiringiroUrban/UrbanBet)** | Sports prediction platform with intelligent analysis |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -74,12 +74,12 @@
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
-- 🤖 **AI Essentials** — ALX Rwanda
-- 📊 **Data Analysis** — Udacity Rwanda
-- 💻 **Programming Fundamentals** — Udacity Rwanda
-- 🛠️ **Visual Assistant & AI Tools** — ALX Rwanda
+- **AI Essentials** — ALX Rwanda
+- **Data Analysis** — Udacity Rwanda
+- **Programming Fundamentals** — Udacity Rwanda
+- **Visual Assistant & AI Tools** — ALX Rwanda
 
 ---
 
