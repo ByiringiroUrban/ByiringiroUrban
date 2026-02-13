@@ -1,113 +1,49 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Byiringiro Urban Bobola</title>
-<style>
-    body {
-        margin: 0;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background-color: #0d1117;
-        color: #c9d1d9;
-        line-height: 1.6;
-    }
-    a {
-        color: #58a6ff;
-        text-decoration: none;
-    }
-    h1, h2, h3 {
-        color: #58a6ff;
-    }
-    .center {
-        text-align: center;
-    }
-    .banner img {
-        width: 100%;
-        border-radius: 10px;
-        margin-bottom: 20px;
-    }
-    .stats img {
-        border-radius: 10px;
-        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        margin: 10px 0;
-    }
-    .badges img {
-        margin: 5px;
-    }
-    section {
-        margin-bottom: 40px;
-        padding: 0 10px;
-    }
-    ul {
-        list-style-type: none;
-        padding-left: 0;
-    }
-    li::before {
-        content: "• ";
-        color: #58a6ff;
-    }
-    p, li {
-        font-size: 16px;
-    }
-    em {
-        color: #8b949e;
-    }
-</style>
-</head>
-<body>
+# Hi there, I'm Byiringiro Urban Bobola 👋
 
-<div class="center banner">
-    <img src="https://raw.githubusercontent.com/ByiringiroUrban/ByiringiroUrban/main/banners.gif" alt="Animated Banner">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ByiringiroUrban/ByiringiroUrban/main/banners.gif" alt="Animated Banner" width="100%" style="border-radius: 10px;">
 </div>
 
-<section class="center">
-<h1>Hi there, I'm Byiringiro Urban Bobola 👋</h1>
-<p>I'm a <strong>Software and Machine Learning Engineer</strong>, currently studying at <strong>Adventist University of Central Africa (AUCA)</strong>. I specialize in <strong>building reliable and scalable applications that solve real-world problems</strong>.</p>
-</section>
+I'm a **Software and Machine Learning Engineer**, currently studying at **Adventist University of Central Africa (AUCA)**. I specialize in **building reliable and scalable applications that solve real-world problems**.  
 
-<section>
-<h2>Work & Contributions</h2>
-<ul>
-    <li><strong>IRU Business Group</strong> – Backend Engineering & business automation systems</li>
-    <li><strong>Land O'clock</strong> – Teaching programming and mentoring projects</li>
-    <li><strong>WISE Academy</strong> – Full-stack e-learning development</li>
-    <li>Other Platforms – GeoChat, OneHealthLine (telemedicine), Frame & Tune Studio, UrbanBet</li>
-</ul>
-</section>
+I contribute to multiple platforms and projects:  
+- **IRU Business Group** – Backend Engineering & business automation systems  
+- **Land O'clock** – Teaching programming and mentoring projects  
+- **WISE Academy** – Full-stack e-learning development  
+- **Other Platforms** – GeoChat, OneHealthLine (telemedicine), Frame & Tune Studio, UrbanBet  
 
-<section class="center stats">
-<h2>GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=ByiringiroUrban&show_icons=true&theme=dark" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByiringiroUrban&layout=compact&theme=dark" width="48%">
-</section>
+---
 
-<section>
-<h2>About Me</h2>
-<ul>
-    <li>Building <strong>modern, efficient, and user-friendly applications</strong></li>
-    <li>Passionate about <strong>software engineering, machine learning, and problem-solving</strong></li>
-    <li>Continuously learning <strong>new technologies, frameworks, and tools</strong></li>
-    <li>Open to <strong>collaborations, mentorship, and innovative projects</strong></li>
-</ul>
-</section>
+## GitHub Stats
 
-<section>
-<h2>Projects</h2>
-<p>I have worked on multiple impactful projects: <strong>IRUCare.com</strong> (multi-industry platform), <strong>GeoChat</strong> (location-based communication), <strong>OneHealthLine Connect</strong> (telemedicine), <strong>CPD (Canada)</strong> (NGO educational systems), <strong>Frame & Tune Studio</strong> (multimedia platform), <strong>WISE Academy Platform</strong> (full-stack e-learning), and <strong>UrbanBet</strong> (sports prediction platform).</p>
-</section>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ByiringiroUrban&show_icons=true&theme=dark" width="48%" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByiringiroUrban&layout=compact&theme=dark" width="48%" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
+</div>
 
-<section class="center badges">
-<h2>Connect with Me</h2>
-<a href="https://linkedin.com/in/byiringiro-urban" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:byiringirourban20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/ByiringiroUrban" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://byiringirourban.com" target="_blank"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-</section>
+---
 
-<section class="center">
-<p><em>"Building innovative solutions that empower people and transform education."</em></p>
-</section>
+## About Me
+- Building **modern, efficient, and user-friendly applications**  
+- Passionate about **software engineering, machine learning, and problem-solving**  
+- Continuously learning **new technologies, frameworks, and tools**  
+- Open to **collaborations, mentorship, and innovative projects**  
 
-</body>
-</html>
+---
+
+## Projects
+I have worked on multiple impactful projects: **IRUCare.com** (multi-industry platform), **GeoChat** (location-based communication), **OneHealthLine Connect** (telemedicine), **CPD (Canada)** (NGO educational systems), **Frame & Tune Studio** (multimedia platform), **WISE Academy Platform** (full-stack e-learning), and **UrbanBet** (sports prediction platform).
+
+---
+
+## Connect with Me
+<div align="center">
+  <a href="https://linkedin.com/in/byiringiro-urban" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:byiringirourban20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ByiringiroUrban" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://byiringirourban.com" target="_blank"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</div>
+
+---
+
+*"Building innovative solutions that empower people and transform education."*
