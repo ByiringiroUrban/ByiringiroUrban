@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Byiringiro%20Urban%20Bobola&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20%26%20Machine%20Learning%20Engineer&descSize=18&descAlignY=55&descColor=8b949e" width="100%" /> -->
+<img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000007278720c8a6ffd1ce4170a69&ts=491945&p=fs&cid=1&sig=a0006b1724790fb3fa1379309d37e92470456e1725bd94092ab5add023cde2a0&v=0" width="100%" />
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://rw.linkedin.com/in/byiringiro-urbain-bobola-a40699367"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/urbain-b-10823031a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:byiringirourban20@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://bobola.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.kaggle.com/byiringirourbain"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
