@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Byiringiro%20Urban%20Bobola&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20%26%20Machine%20Learning%20Engineer&descSize=18&descAlignY=55&descColor=8b949e" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Byiringiro%20Urban%20Bobola&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20%26%20Machine%20Learning%20Engineer&descSize=18&descAlignY=55&descColor=8b949e" width="100%" /> -->
 
 <br/>
 
@@ -63,8 +63,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ByiringiroUrban&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByiringiroUrban&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ByiringiroUrban&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByiringiroUrban&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" /> -->
 
 <br/>
 
