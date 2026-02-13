@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000007278720c8a6ffd1ce4170a69&ts=491945&p=fs&cid=1&sig=a0006b1724790fb3fa1379309d37e92470456e1725bd94092ab5add023cde2a0&v=0" width="100%" />
+<img src="https://photos.fife.usercontent.google.com/pw/AP1GczOcsUE9zrs32RmQg4wFzY0I5wq2LE5SDmFOIYJvEZLSVIVstgReceK5=w242-h241-no?authuser=0" width="100%" />
 
 <br/>
 
